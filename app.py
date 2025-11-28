@@ -54,7 +54,7 @@ import requests
 from datetime import datetime
 import pandas as pd
 
-st.set_page_config(page_title="Taxi Fare Predictor", page_icon="🚕")
+st.set_page_config(page_title="Taxi Fare Predictoooor", page_icon="🚕")
 
 st.title("🚕 TaxiFareModel front")
 
