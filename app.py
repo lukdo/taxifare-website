@@ -119,7 +119,7 @@ with st.expander("🔍 Show pickup & dropoff on a map"):
             {"lat": dropoff_latitude, "lon": dropoff_longitude, "type": "dropoff"},
         ]
     )
-   # st.map(df_map[["lat", "lon"]])
+    st.map(df_map[["lat", "lon"]])
 
 
 # === 4. Call the API and display result ========================================
