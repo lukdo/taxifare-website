@@ -167,3 +167,5 @@ if st.button("Predict fare 🚀"):
 
 
     st.json(data)
+
+    print(data.get("fare_amount"))
