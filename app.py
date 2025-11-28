@@ -56,7 +56,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Taxi Fare Predictoooor", page_icon="🚕")
 
-st.title("🚕 TaxiFareModel VROUM VROOOOUM")
+st.title("🚕 TaxiFareModel VROUM VROOOOUM 🤑🤑")
 
 st.markdown(
     """
